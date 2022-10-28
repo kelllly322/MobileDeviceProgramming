@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_riddle" type="id" />
+    <item name="rd_answer" type="id" />
+    <item name="btn_riddle" type="id" />
+    <item name="btn_answer" type="id" />
+    <item name="btn_reAnswer" type="id" />
+    <item name="btn_showAnswer" type="id" />
+    <item name="tv_result" type="id" />
+</resources>
